@@ -7,7 +7,7 @@ This project allows users to securely log in using Google OAuth, manage private 
 🚀 Live Demo
 
 Deployed on Vercel
-(Add your live URL here)
+https://bookmark-nine-pied.vercel.app
 
 🛠 Tech Stack
 
